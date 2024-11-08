@@ -1,5 +1,5 @@
 ## Hi there, I am Gaurav Kulkarni
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Open-Source+Enthusiast;Artisan+Lover!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Data-Science+Enthusiast;Looking+Through+Compute-Vision!;)](https://git.io/typing-svg)
 <!-- [<img align="right" alt="PNG" src="https://github.com/gauravk912/gauravk912/main/cat.png" width="300" height="300" />] -->
 
 - 🔭 I’m currently working on **Computer Vision & NLP**
